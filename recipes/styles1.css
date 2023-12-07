@@ -1,0 +1,15 @@
+.container {
+    border: 1px solid rgb(161, 118, 154);
+    display: flex;
+    height: 50vh;
+    justify-content: center;
+    align-items: center;
+    gap: 3px;
+}
+
+.container div {
+    border: 1px solid plum;
+    padding: 30px;
+    width: 30px;
+    height: 30px;
+}
